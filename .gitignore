@@ -1,15 +1,5 @@
 /tiktok_server/node_modules
 /wa_server/node_modules
-/public/storage
-/storage/*.key
-package-lock.json
 /vendor
 .env
-/.idea/
-/.vscode/
-/storage/logs/*
-/storage/debugbar/*
-/storage/framework/*
-composer.lock
-.DS_Store
-dump.rdb
+/storage
